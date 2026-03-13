@@ -15,8 +15,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,powershell,visualstudio,windows,linux,sublime,npm" />
-    <img src="https://skillicons.dev/icons?i=cs,java,js" />
-    <img src="https://skillicons.dev/icons?i=lua,cpp,c,python" /><br>
+    <img src="https://skillicons.dev/icons?i=cs,java,js" /><br>
 </div>
 
 <br/>
