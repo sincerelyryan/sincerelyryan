@@ -1,5 +1,5 @@
 
-<h3 align="center">just a dude that likes software development</h3>
+<h3 align="center">a 15 year old bum from the united states who makes passion projects</h3>
 
 <br/>
 
