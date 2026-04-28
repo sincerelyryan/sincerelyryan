@@ -5,8 +5,8 @@
 
 <div align="center">
  
-   **Small Understanding of Windows Kernel**
-   **Experienced in C# Development/Software Development**
+   **Small Understanding of Windows Kernel|**
+   ** Experienced in C# Development/Software Development**
 
  </div>
  
