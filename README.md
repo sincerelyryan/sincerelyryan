@@ -5,7 +5,8 @@
 
 <div align="center">
  
-   **C# Superior!**
+   **Small Understanding of Windows Kernel**
+   **Experienced in C# Development/Software Development**
 
  </div>
  
