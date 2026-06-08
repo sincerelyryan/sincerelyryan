@@ -15,8 +15,8 @@
 <h2 align="center">Languages/Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,powershell,visualstudio,windows,linux,sublime,npm" />
-    <img src="https://skillicons.dev/icons?i=cs,java,js" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,powershell,visualstudio,windows,linux,sublime,npm" />
+    <img src="https://skillicons.dev/icons?i=cs,js" /><br>
 </div>
 
 <br/>
